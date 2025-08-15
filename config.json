@@ -1,0 +1,4 @@
+{
+  "mode": "bundler",
+  "rpc": "https://api.mainnet-beta.solana.com"
+}

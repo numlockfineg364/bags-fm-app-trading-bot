@@ -1,0 +1,22 @@
+
+[package]
+name = "solgod-bagsfm"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["SolGod Team <team@solgod.trade>"]
+description = "SolGod — bags.fm trading bot scaffold (bundler, sniper, market-maker, tracker, export)."
+readme = "README.md"
+repository = "https://example.com/solgod-bagsfm"
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
+dotenvy = "0.15"
+anyhow = "1.0"
+log = "0.4"
+env_logger = "0.11"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time"] }
+chrono = { version = "0.4", features = ["serde"] }
+csv = "1.3"
