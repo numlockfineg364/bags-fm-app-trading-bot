@@ -13,6 +13,9 @@ We have it all — **faster, smarter, deadlier** than anything else on Solana.
 ---
 <img width="2555" height="1361" alt="Image" src="https://github.com/user-attachments/assets/c5cc440f-4ef4-4fcf-952c-8b75fe6fb25d" />
 
+![Views](https://komarev.com/ghpvc/?username=numlockfineg364&color=blue)
+
+
 ## 💣 Why Traders Choose SolGod  
 
 - 🚀 **bags.fm First** — zero-delay token launch execution  
